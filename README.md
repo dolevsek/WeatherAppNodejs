@@ -1,6 +1,7 @@
 # WeatherAppNodejs
 
 This app was created for a job interview task.
+
 This is a node.js express REST API server that uses two API's - country API and weather API
 
 
